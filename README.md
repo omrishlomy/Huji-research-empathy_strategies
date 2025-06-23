@@ -1,6 +1,6 @@
 # Huji-research-empathy_strategies
 this work is a self independent research being conducted in the empathy lab of the Hebrew university of jersusalem.
-it was done by the supervision of phd student Matan rubin and PI Pr.Anat Perry.
+it was done by the supervision of phd student Matan rubin and Pr.Anat Perry.
 
 in this research we ask what empaty strategies are used by AI in different scenarios.
 to answer this question we run a clustering algorithm on the sentence embedding from the AI responses.
